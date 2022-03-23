@@ -63,3 +63,16 @@ Number 	Category 	Description
 8. 	Software and Data Integrity Failures 	Software and data integrity failures relate to code and infrastructure that does not protect against integrity violations. An example of this is where an application relies upon plugins, libraries, or modules from untrusted sources, repositories, and content delivery networks (CDNs).
 9. 	Security Logging and Monitoring Failures 	This category is to help detect, escalate, and respond to active breaches. Without logging and monitoring, breaches cannot be detected..
 10. 	Server-Side Request Forgery 	SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL).
+
+
+
+TMUX:
+Carlos Vasconez@htb[/htb]$ sudo apt install tmux -y
+
+The default key to input tmux commands prefix is [CTRL + B]. In order to open a new window in tmux, we can hit the prefix 'i.e. [CTRL + B]' and then hit C: 
+
+window number, like 0 or 1. We can also split a window vertically into panes by hitting the prefix and then [SHIFT + %]: 
+
+
+https://tmuxcheatsheet.com/
+
