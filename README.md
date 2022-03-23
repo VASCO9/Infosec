@@ -40,3 +40,13 @@ Notepad++
 Some of these are more focused on note-taking, while others such as Notion and GitBook have richer features that can be used to create Wiki-type pages, cheat sheets, and more. It is important to make sure that any client data is only stored locally and not synced to the cloud if using one of these tools on real-world assessments.
 
 Tip: Learning Markdown language is easy and very useful for note taking, as it can be easily represented in a visually appealing and organized way.
+
+
+ 		
+Cherrytree 	Visual Studio Code 	Evernote
+Notion 	GitBook 	Sublime Text
+Notepad++ 		
+
+Some of these are more focused on note-taking, while others such as Notion and GitBook have richer features that can be used to create Wiki-type pages, cheat sheets, and more. It is important to make sure that any client data is only stored locally and not synced to the cloud if using one of these tools on real-world assessments.
+
+Tip: Learning Markdown language is easy and very useful for note taking, as it can be easily represented in a visually appealing and organized way.
